@@ -1,0 +1,23 @@
+{
+  "name": "sweeterthancedar",
+  "version": "1.0.0",
+  "description": "The Sweeter Than Cedar band website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhartjes/sweeterthancedar.git"
+  },
+  "keywords": [
+    "band",
+    "sweeterthancedar"
+  ],
+  "author": "Dominic Hartjes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhartjes/sweeterthancedar/issues"
+  },
+  "homepage": "https://github.com/dhartjes/sweeterthancedar#readme"
+}
