@@ -24,5 +24,8 @@
   "homepage": "https://github.com/dhartjes/sweeterthancedar#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "photoswipe": "^5.4.2"
   }
 }
