@@ -1,9 +1,9 @@
-module.exports = function(config){
+module.exports = function (config) {
 
-    return {
-        dir: {
-            input: "src",
-            output: "dist"
-        }
-    };
+  return {
+    dir: {
+      input: "src",
+      output: "dist"
+    }
+  };
 };
